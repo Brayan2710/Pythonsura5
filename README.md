@@ -1,2 +1,2 @@
-# Pythonsura5
-ciclos y listas en Python 
+# Ciclos y listas
+## Programado por : Brayan Esteban Briceño Castaño.
